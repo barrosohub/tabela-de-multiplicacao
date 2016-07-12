@@ -3,7 +3,7 @@ function MTable($n)
 {
     echo "<tr>";
     for ($m = 1; $m <= 10; $m++) {
-        echo "<td>" . $m . "x" . $n . " = " . ($m * $n) . " | </td>";
+        echo "<td>" . $m . "x" . $n . " = " . ($m * $n) . "</td>";
     }
     echo "</tr>";
 }
