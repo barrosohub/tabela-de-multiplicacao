@@ -1,15 +1,15 @@
 <?php
-function MTable($a)
+function MTable($n)
 {
     echo "<tr>";
-    for ($_ = 1; $_ <= 10; $_++) {
-        echo "<td>" . $_ . "x" . $a . " = " . ($a * $_) . " | </td>";
+    for ($m = 1; $m <= 10; $m++) {
+        echo "<td>" . $m . "x" . $n . " = " . ($m * $n) . " | </td>";
     }
     echo "</tr>";
 }
 
 echo "<table>";
-for ($_ = 1; $_ <= 10; $_++) {
-    MTable($_);
+for ($m = 1; $m <= 10; $m++) {
+    MTable($m);
 }
 echo "</table>";
