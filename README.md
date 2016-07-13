@@ -1,4 +1,4 @@
-# simple-multiplication-tables
+# simple-multiplication-table
 
 This is a simple multiplication table 1 to 10
 
