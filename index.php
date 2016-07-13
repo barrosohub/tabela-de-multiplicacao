@@ -14,7 +14,7 @@ function MTable($n)
     }
     echo "</tr>";
 }
-echo "<table style='width: 100%;'>";
+echo "<table>";
 for ($m = 1; $m <= 10; $m++) {
     MTable($m);
 }
