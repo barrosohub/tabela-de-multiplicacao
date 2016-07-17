@@ -1,7 +1,7 @@
-# Multiplication Table
+# Tabela de multiplicação
 
-This is a simple multiplication table 1 to 10
+Esta é uma simples tabela de multiplicação de 1 a 10
 
-Output:
+Saída:
 ![alt tag](https://raw.githubusercontent.com/barrsofilho/simple-multiplication-table/master/output.png "Output")
 
