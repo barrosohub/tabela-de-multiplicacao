@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <head>
-    <title>Simple Table</title>
+    <title>Tabela simples</title>
     <link href="default.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
-<h1>Multiplication Table</h1>
+<h1>Tabela de Multiplicação</h1>
 <?php
 function MTable($n)
 {
